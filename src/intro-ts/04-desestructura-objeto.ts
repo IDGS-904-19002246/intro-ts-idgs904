@@ -36,3 +36,5 @@ const[a,b] = gps
 console.log(`Grupo 1: ${a}`);
 
 
+
+
